@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Project_UniClub/UniClub/web/events.jsp</file>
+            <file>file:/D:/Project_UniClub/UniClub/src/java/model/EventParticipant.java</file>
+            <file>file:/D:/Project_UniClub/UniClub/src/java/controller/RegisterEventServlet.java</file>
+            <file>file:/D:/Project_UniClub/UniClub/src/java/dao/RoleRequestDAO.java</file>
+            <file>file:/D:/Project_UniClub/UniClub/web/includes/header.jsp</file>
+            <file>file:/D:/Project_UniClub/UniClub/web/home.jsp</file>
+            <file>file:/D:/Project_UniClub/UniClub/src/java/util/EmailUtil.java</file>
+            <file>file:/D:/Project_UniClub/UniClub/src/java/controller/CreateEventServlet.java</file>
+            <file>file:/D:/Project_UniClub/UniClub/web/login.jsp</file>
+            <file>file:/D:/Project_UniClub/UniClub/src/java/controller/JoinClubServlet.java</file>
+            <file>file:/D:/Project_UniClub/UniClub/src/java/controller/ApproveRoleServlet.java</file>
+            <file>file:/D:/Project_UniClub/UniClub/web/create_event.jsp</file>
+            <file>file:/D:/Project_UniClub/UniClub/web/clubs.jsp</file>
+            <file>file:/D:/Project_UniClub/UniClub/src/java/model/Club.java</file>
+            <file>file:/D:/Project_UniClub/UniClub/src/java/controller/EventListServlet.java</file>
+            <file>file:/D:/Project_UniClub/UniClub/src/java/controller/GoogleLoginServlet.java</file>
+            <file>file:/D:/Project_UniClub/UniClub/web/request_role.jsp</file>
+            <file>file:/D:/Project_UniClub/UniClub/src/java/controller/ClubListServlet.java</file>
+            <file>file:/D:/Project_UniClub/UniClub/src/java/controller/RoleRequestServlet.java</file>
+            <file>file:/D:/Project_UniClub/UniClub/src/java/dao/ClubDAO.java</file>
+            <file>file:/D:/Project_UniClub/UniClub/src/java/dao/EventParticipantDAO.java</file>
+            <file>file:/D:/Project_UniClub/UniClub/web/role_requests_admin.jsp</file>
+            <file>file:/D:/Project_UniClub/UniClub/src/java/model/Event.java</file>
+            <file>file:/D:/Project_UniClub/UniClub/web/WEB-INF/web.xml</file>
+            <file>file:/D:/Project_UniClub/UniClub/src/java/dao/EventDAO.java</file>
+        </group>
+    </open-files>
+</project-private>

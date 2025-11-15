@@ -1,0 +1,56 @@
+<%@ include file="../../includes/header.jsp" %>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt" %>
+<%
+    request.setAttribute("pageTitle", "Trang chủ UniClub");
+%>
+
+<section class="section main-banner" id="top" data-section="section1">
+    <video autoplay muted loop id="bg-video">
+        <source src="${pageContext.request.contextPath}/assets/images/course-video.mp4" type="video/mp4" />
+    </video>
+    <div class="video-overlay header-text">
+        <div class="container">
+            <div class="caption">
+                <h6>Xin chào các bạn!</h6>
+                <h2>Chào mừng đến với <em>UniClub</em></h2>
+                <p>Hệ thống quản lý câu lạc bộ sinh viên hiện đại và thân thiện.</p>
+                <div class="main-button-red">
+                    <a href="${pageContext.request.contextPath}/meetings">Khám phá ngay</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="services section" id="services">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="service-item">
+                    <div class="icon"><img src="${pageContext.request.contextPath}/assets/images/service-icon-01.png" alt=""></div>
+                    <h4>Qu?n lý s? ki?n</h4>
+                    <p>T?o, s?a, và theo dõi các ho?t ??ng CLB.</p>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="service-item">
+                    <div class="icon"><img src="${pageContext.request.contextPath}/assets/images/service-icon-02.png" alt=""></div>
+                    <h4>Thành viên CLB</h4>
+                    <p>Theo dõi h? s?, ?i?m rèn luy?n và ho?t ??ng c?a sinh viên.</p>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="service-item">
+                    <div class="icon"><img src="${pageContext.request.contextPath}/assets/images/service-icon-03.png" alt=""></div>
+                    <h4>Báo cáo t?ng h?p</h4>
+                    <p>Xem th?ng kê ho?t ??ng, xu?t báo cáo theo CLB ho?c cá nhân.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<%@ include file="../../includes/footer.jsp" %>
